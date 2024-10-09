@@ -1,8 +1,8 @@
 # UP221: Introduction to GIS and Spatial Data Science
 
-Winter 2025
+Winter 2024
 
-Mondays 2pm - 4:50pm
+Mondays 5pm - 7:50pm
 
 [Recurring Zoom link](https://ucla.zoom.us/j/94971812993?pwd=NjI4bkxRR2s3Q0FVblU0WmlHbXNodz09)
 
