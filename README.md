@@ -22,9 +22,9 @@ Chris Giamarino (cgiamarino@g.ucla.edu)
 
 ## Teaching Assistants:
 
-Ariella Ventura (ariellasventura@gmail.com)
+TA 1 (email)
 
-Lucy Briggs (lbriggs@g.ucla.edu)
+TA 2 (Email)
 
 ## Special Technology Assistant:
 
@@ -36,9 +36,9 @@ Ben Winjum (bwinjum@ucla.edu)
 
 * Chris, Mondays 8 - 9 pm after class and Tuesdays from 6 - 7 pm (use course Zoom link; available via email and slack)
 
-* Ariella, Tuesdays from 1-3 pm (schedule via email/Zoom)
+* TA 1:
 
-* Lucy, Thursdays from 4 - 6 pm (schedule via email/Zoom)
+* TA 2:
 
 ## Course Description
 
@@ -52,7 +52,7 @@ In addition to the programming lab sessions, you will be given weekly or bi-week
 
 While there are no prerequisites for taking this course, people who are approaching programming for the first time will admittedly find the course to be intense and challenging.
 
-## Learning Objectives for UP206A
+## Learning Objectives for UP221
 
 At the conclusion of this course, students will be able to critically describe, analyze, and visualize spatial data for planning practices and research.
 
@@ -82,7 +82,7 @@ Third, we have taken the liberty (with permission) to borrow ideas and materials
 The course will almost entirely be conducted on Jupyter Notebooks. A [JupyterHub](https://jupyter.idre.ucla.edu), a web-based Jupyter Notebook environment, has been set up specifically for this class, and is available at the following [URL](https://jupyter.idre.ucla.edu). Note that you will need multi-factored authentication to login:
 
 *   [JupyterHub](https://jupyter.idre.ucla.edu) (choose UCLA)
-* [Course slack](https://join.slack.com/t/24w-up221/shared_invite/zt-2a3ipi7fa-J2T3HyDezDLVabcIzG7V_w)
+* [Course slack](https://join.slack.com/t/up221-25w/shared_invite/zt-2spfm99gy-S9Rn5b9iWWoGBYm9D2K7XA)
 
 Weekly course materials, including presentations, interactive notebooks (.ipynb), and data will be made available through a course github repository (here) that you will interact with through your JupyterHub account.
 
@@ -140,17 +140,17 @@ Late assignments will be marked down one grade for each day it is late. For exam
 
 Week | Topic
 --- | ---
-Week 1 | [Introduction to spatial data science](https://github.com/cgiamarino9/24W-UP221/tree/main/Weeks/Week01%20Intro)
-Week 2 | [Data in Urban Studies: The challenge in data acquisition](https://github.com/cgiamarino9/24W-UP221/tree/main/Weeks/Week02%20Spatial%20Data%20Exploration)<br> → [Group assignment #1: Project Proposal](https://github.com/cgiamarino9/24W-UP221/blob/main/Group%20Assignments/GroupAssignment1.md)
-Week 3 | [Understanding communities: Census data profiles](https://github.com/cgiamarino9/24W-UP221/tree/main/Weeks/Week03%20Census%20Data)<br> →   [Group assignment #2: Census Data Exploration](https://github.com/cgiamarino9/24W-UP221/blob/main/Group%20Assignments/GroupAssignment2.md)
-Week 4 | [Open Data and APIs](https://github.com/cgiamarino9/24W-UP221/tree/main/Weeks/Week04%20Open%20data)
-Week 5 | [Open street maps](https://github.com/cgiamarino9/24W-UP221/tree/main/Weeks/Week05%20Open%20Street%20Map)
-Week 6 | [Mid-terms](https://github.com/cgiamarino9/24W-UP221/tree/main/Weeks/Week06)<br> →  [Midterms](https://github.com/cgiamarino9/24W-UP221/tree/main/Midterm%20and%20Finals)
-Week 7 | [Geocoding, multiple overlays, and functions](https://github.com/cgiamarino9/24W-UP221/tree/main/Weeks/Week07%20Isochrone%20Maps)<br> →  [Group assignment #3: Data Visualization](https://github.com/cgiamarino9/24W-UP221/blob/main/Group%20Assignments/GroupAssignment3.md)
-Week 8 | [Spatial statistics](https://github.com/cgiamarino9/24W-UP221/tree/main/Weeks/Week08%20Spatial%20Autocorrelation)
-Week 9 | [Point pattern analysis](https://github.com/cgiamarino9/24W-UP221/tree/main/Weeks/Week09%20Point%20Patterns)<br> →  [Group assignment #4: Spatial Analysis](https://github.com/cgiamarino9/24W-UP221/blob/main/Group%20Assignments/GroupAssignment3.md)
-Week 10 |[Remote Sensing and Sentiment Analysis](https://github.com/cgiamarino9/24W-UP221/tree/main/Weeks/Week10-Metro%20scraping%20and%20remote%20sensing)
-Finals Week | [Finals](https://github.com/cgiamarino9/24W-UP221/tree/main/Midterm%20and%20Finals)
+Week 1 | [Introduction to spatial data science](https://github.com/cgiamarino9/25W-UP221/tree/main/Weeks/Week01%20Intro)
+Week 2 | [Data in Urban Studies: The challenge in data acquisition](https://github.com/cgiamarino9/25W-UP221/tree/main/Weeks/Week02%20Spatial%20Data%20Exploration)<br> → [Group assignment #1: Project Proposal](https://github.com/cgiamarino9/25W-UP221/blob/main/Group%20Assignments/GroupAssignment1.md)
+Week 3 | [Understanding communities: Census data profiles](https://github.com/cgiamarino9/25W-UP221/tree/main/Weeks/Week03%20Census%20Data)<br> →   [Group assignment #2: Census Data Exploration](https://github.com/cgiamarino9/25W-UP221/blob/main/Group%20Assignments/GroupAssignment2.md)
+Week 4 | [Open Data and APIs](https://github.com/cgiamarino9/25W-UP221/tree/main/Weeks/Week04%20Open%20data)
+Week 5 | [Open street maps](https://github.com/cgiamarino9/25W-UP221/tree/main/Weeks/Week05%20Open%20Street%20Map)
+Week 6 | [Mid-terms](https://github.com/cgiamarino9/25W-UP221/tree/main/Weeks/Week06)
+Week 7 | [Geocoding, multiple overlays, and functions](https://github.com/cgiamarino9/25W-UP221/tree/main/Weeks/Week07%20Isochrone%20Maps)<br> →  [Group assignment #3: Data Visualization](https://github.com/cgiamarino9/25W-UP221/blob/main/Group%20Assignments/GroupAssignment3.md)
+Week 8 | [Spatial statistics](https://github.com/cgiamarino9/25W-UP221/tree/main/Weeks/Week08%20Spatial%20Autocorrelation)
+Week 9 | [Point pattern analysis](https://github.com/cgiamarino9/25W-UP221/tree/main/Weeks/Week09%20Point%20Patterns)<br> →  [Group assignment #4: Spatial Analysis](https://github.com/cgiamarino9/25W-UP221/blob/main/Group%20Assignments/GroupAssignment4.md)
+Week 10 |[Remote Sensing and Sentiment Analysis](https://github.com/cgiamarino9/25W-UP221/tree/main/Weeks/Week10-Metro%20scraping%20and%20remote%20sensing)
+Finals Week | [Finals](https://github.com/cgiamarino9/25W-UP221/tree/main/Midterm%20and%20Finals)
 
 ## How to ask a technical question
 
