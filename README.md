@@ -113,12 +113,12 @@ All assignments are graded on the following criteria:
 - **Thinking out of the box**: It is easy to copy an existing notebook, and replace datasets and parameters to fulfill an assignment. But how well have you/your group grasped the underlying concepts? This can be demonstrated by your ability to think outside the box, and *applying* rather than *copying* each step of a given assignment. For example, you may experiment with functions not demonstrated in class, or create your own workflow that borrows certain concepts learned in class to make them your own.
 
 
-Grade | Description
----|---
-A/A+ | Exceptional/creative/innovative work, demonstrating grasp of material, application of concepts to your own inquiry, going above and beyond course material
-A- | Good grasp of material and solid application to your own research inquiry
-B+ | Average understanding of material, largely duplicating course material to fit with your own research inquiry
-B and below | Submission is incomplete or produces errors
+|Grade | Description|
+|---|---|
+|A/A+ | Exceptional/creative/innovative work, demonstrating grasp of material, application of concepts to your own inquiry, going above and beyond course material|
+|A- | Good grasp of material and solid application to your own research inquiry|
+|B+ | Average understanding of material, largely duplicating course material to fit with your own research inquiry|
+|B and below | Submission is incomplete or produces errors|
 
 [Hints for creating an exceptional assignment](https://docs.google.com/document/d/1D4ud1I9vuDPNDudINPC4-MLG-PV7AnzvkexZ-KFqyWk/edit?usp=sharing)
 
@@ -138,19 +138,19 @@ Late assignments will be marked down one grade for each day it is late. For exam
 *   Make sure you can log into the class JupyterHub
 	*   [JupyterHub](https://jupyter.idre.ucla.edu) (choose UCLA)
 
-Week | Topic
---- | ---
-Week 1 | [Introduction to spatial data science](https://github.com/cgiamarino9/25W-UP221/tree/main/Weeks/Week01%20Intro)
-Week 2 | [Data in Urban Studies: The challenge in data acquisition](https://github.com/cgiamarino9/25W-UP221/tree/main/Weeks/Week02%20Spatial%20Data%20Exploration)<br> → [Group assignment #1: Project Proposal](https://github.com/cgiamarino9/25W-UP221/blob/main/Group%20Assignments/GroupAssignment1.md)
-Week 3 | [Understanding communities: Census data profiles](https://github.com/cgiamarino9/25W-UP221/tree/main/Weeks/Week03%20Census%20Data)<br> →   [Group assignment #2: Census Data Exploration](https://github.com/cgiamarino9/25W-UP221/blob/main/Group%20Assignments/GroupAssignment2.md)
-Week 4 | [Open Data and APIs](https://github.com/cgiamarino9/25W-UP221/tree/main/Weeks/Week04%20Open%20data)
-Week 5 | [Open street maps](https://github.com/cgiamarino9/25W-UP221/tree/main/Weeks/Week05%20Open%20Street%20Map)
-Week 6 | [Mid-terms](https://github.com/cgiamarino9/25W-UP221/tree/main/Weeks/Week06)
-Week 7 | [Geocoding, multiple overlays, and functions](https://github.com/cgiamarino9/25W-UP221/tree/main/Weeks/Week07%20Isochrone%20Maps)<br> →  [Group assignment #3: Data Visualization](https://github.com/cgiamarino9/25W-UP221/blob/main/Group%20Assignments/GroupAssignment3.md)
-Week 8 | [Spatial statistics](https://github.com/cgiamarino9/25W-UP221/tree/main/Weeks/Week08%20Spatial%20Autocorrelation)
-Week 9 | [Point pattern analysis](https://github.com/cgiamarino9/25W-UP221/tree/main/Weeks/Week09%20Point%20Patterns)<br> →  [Group assignment #4: Spatial Analysis](https://github.com/cgiamarino9/25W-UP221/blob/main/Group%20Assignments/GroupAssignment4.md)
-Week 10 |[Remote Sensing and Sentiment Analysis](https://github.com/cgiamarino9/25W-UP221/tree/main/Weeks/Week10-Metro%20scraping%20and%20remote%20sensing)
-Finals Week | [Finals](https://github.com/cgiamarino9/25W-UP221/tree/main/Midterm%20and%20Finals)
+| Week | Topic |
+|------ | ------ |
+| Week 1 | [Introduction to spatial data science](https://github.com/cgiamarino9/25W-UP221/tree/main/Weeks/Week01%20Intro)|
+| Week 2 | [Data in Urban Studies: The challenge in data acquisition](https://github.com/cgiamarino9/25W-UP221/tree/main/Weeks/Week02%20Spatial%20Data%20Exploration)<br> → [Group assignment #1: Project Proposal](https://github.com/cgiamarino9/25W-UP221/blob/main/Group%20Assignments/GroupAssignment1.md)|
+|Week 3 | [Understanding communities: Census data profiles](https://github.com/cgiamarino9/25W-UP221/tree/main/Weeks/Week03%20Census%20Data)<br> →   [Group assignment #2: Census Data Exploration](https://github.com/cgiamarino9/25W-UP221/blob/main/Group%20Assignments/GroupAssignment2.md)|
+|Week 4 | [Open Data and APIs](https://github.com/cgiamarino9/25W-UP221/tree/main/Weeks/Week04%20Open%20data)|
+|Week 5 | [Open street maps](https://github.com/cgiamarino9/25W-UP221/tree/main/Weeks/Week05%20Open%20Street%20Map)|
+|Week 6 | [Mid-terms](https://github.com/cgiamarino9/25W-UP221/tree/main/Weeks/Week06)|
+|Week 7 | [Geocoding, multiple overlays, and functions](https://github.com/cgiamarino9/25W-UP221/tree/main/Weeks/Week07%20Isochrone%20Maps)<br> →  [Group assignment #3: Data Visualization](https://github.com/cgiamarino9/25W-UP221/blob/main/Group%20Assignments/GroupAssignment3.md)|
+|Week 8 | [Spatial statistics](https://github.com/cgiamarino9/25W-UP221/tree/main/Weeks/Week08%20Spatial%20Autocorrelation)|
+|Week 9 | [Point pattern analysis](https://github.com/cgiamarino9/25W-UP221/tree/main/Weeks/Week09%20Point%20Patterns)<br> →  [Group assignment #4: Spatial Analysis](https://github.com/cgiamarino9/25W-UP221/blob/main/Group%20Assignments/GroupAssignment4.md)|
+|Week 10 |[Remote Sensing and Sentiment Analysis](https://github.com/cgiamarino9/25W-UP221/tree/main/Weeks/Week10-Metro%20scraping%20and%20remote%20sensing)|
+|Finals Week | [Finals](https://github.com/cgiamarino9/25W-UP221/tree/main/Midterm%20and%20Finals)|
 
 ## How to ask a technical question
 
