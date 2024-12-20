@@ -4,13 +4,15 @@ Winter 2025
 
 Mondays 2pm - 4:50pm
 
-[Recurring Zoom link](https://ucla.zoom.us/j/94971812993?pwd=NjI4bkxRR2s3Q0FVblU0WmlHbXNodz09)
+[Recurring Zoom link](https://ucla.zoom.us/j/92932552160?pwd=1SjIMPWzWJv8mmyb7pbQX1IOickbAp.1)
 
 ## Course format:
 
 **Live-Online/Synchronous**
 
 This course will meet in real time via Zoom. Classes meet at regularly scheduled times and you will have the opportunity to interact with your instructor and your classmates. Just like a regular on-campus class, you are expected to attend and participate in discussions.
+
+**
 
 **Camera use**
 
@@ -22,9 +24,9 @@ Chris Giamarino (cgiamarino@g.ucla.edu)
 
 ## Teaching Assistants:
 
-TA 1 (email)
+TA 1: Carl De Joy (carl.dejoya@gmail.com)
 
-TA 2 (Email)
+TA 2: Nick Giorgio (nickgiorgio310@g.ucla.edu)
 
 ## Special Technology Assistant:
 
@@ -34,11 +36,11 @@ Ben Winjum (bwinjum@ucla.edu)
 
 ## Office Hours: 
 
-* Chris, Mondays 8 - 9 pm after class and Tuesdays from 6 - 7 pm (use course Zoom link; available via email and slack)
+* Chris, Mondays 5 - 6 pm (use course Zoom link; available via email and slack)
 
-* TA 1:
+* TA 1: Carl, 
 
-* TA 2:
+* TA 2: Nicholas Giorgio, 
 
 ## Course Description
 
@@ -81,6 +83,7 @@ Third, we have taken the liberty (with permission) to borrow ideas and materials
 
 The course will almost entirely be conducted on Jupyter Notebooks. A [JupyterHub](https://jupyter.idre.ucla.edu), a web-based Jupyter Notebook environment, has been set up specifically for this class, and is available at the following [URL](https://jupyter.idre.ucla.edu). Note that you will need multi-factored authentication to login:
 
+* [Course syllabus and website](https://github.com/cgiamarino9/25W-UP221)
 *   [JupyterHub](https://jupyter.idre.ucla.edu) (choose UCLA)
 * [Course slack](https://join.slack.com/t/up221-25w/shared_invite/zt-2spfm99gy-S9Rn5b9iWWoGBYm9D2K7XA)
 
@@ -135,7 +138,10 @@ Late assignments will be marked down one grade for each day it is late. For exam
 
 *   Fill out the [pre-class survey](https://docs.google.com/forms/d/e/1FAIpQLSeuTIzxsDMwgIeTe9eDt3FWIXBUkegak5Ko84B-Mf3xbIJ6Eg/viewform?vc=0&c=0&w=1&flr=0) 
 *   If you do not have a GitHub account, create one for the class
-	*   [https://github.com/](https://github.com/)
+	*   [GitHub](https://github.com/)
+* 	As a student, you have free access to GitHub Education and GitHub Copilot (AI coding assistance). Please take advantage of these resources by practicing in JupyterHub and VS Code (python text editor)
+	* [GitHub Education](https://github.com/education/students)
+	* [VS Code](https://code.visualstudio.com/)
 *   Make sure you can log into the class JupyterHub
 	*   [JupyterHub](https://jupyter.idre.ucla.edu) (choose UCLA)
 
