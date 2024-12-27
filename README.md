@@ -24,7 +24,7 @@ Chris Giamarino (cgiamarino@g.ucla.edu)
 
 ## Teaching Assistants:
 
-TA 1: Carl De Joy (carl.dejoya@gmail.com)
+TA 1: Carl De Joy (carl.dejoya@g.ucla.edu)
 
 TA 2: Nick Giorgio (nickgiorgio310@g.ucla.edu)
 
@@ -38,9 +38,9 @@ Ben Winjum (bwinjum@ucla.edu)
 
 * Chris, Mondays 5 - 6 pm (use course Zoom link; available via email and slack)
 
-* TA 1: Carl, 
+* TA 1: Carl, Tuesdays 1 - 3 pm 
 
-* TA 2: Nicholas Giorgio, 
+* TA 2: Nick, 
 
 ## Course Description
 
@@ -85,7 +85,7 @@ The course will almost entirely be conducted on Jupyter Notebooks. A [JupyterHub
 
 * [Course syllabus and website](https://github.com/cgiamarino9/25W-UP221)
 *   [JupyterHub](https://jupyter.idre.ucla.edu) (choose UCLA)
-* [Course slack](https://join.slack.com/t/up221-25w/shared_invite/zt-2spfm99gy-S9Rn5b9iWWoGBYm9D2K7XA)
+* [Course slack](https://join.slack.com/t/up221-25w/shared_invite/zt-2x4z8l969-vku9X12oI_Ew_6fwb4hvDQ)
 
 Weekly course materials, including presentations, interactive notebooks (.ipynb), and data will be made available through a course github repository (here) that you will interact with through your JupyterHub account.
 

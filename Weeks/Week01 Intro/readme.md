@@ -29,7 +29,7 @@ UP221: Introduction to GIS and Spatial Data Science
 
 [Course zoom link for Winter Quarter 2024](https://ucla.zoom.us/j/94971812993?pwd=NjI4bkxRR2s3Q0FVblU0WmlHbXNodz09)
 
-January 8, 2024
+January 6, 2025
 
 ##
 <xl>
@@ -60,13 +60,13 @@ January 8, 2024
 ##
 
 * Mark your [attendance ✅](https://docs.google.com/spreadsheets/d/15hvcbzJbfwa70KvKMWUG63oyRWaY_NEfx4pVJpi_f6w/edit?usp=sharing) 
-* Fill out the [pre-class](https://docs.google.com/forms/d/e/1FAIpQLSfs2NtxTY5HTcT6fr3-5TqoiD0fVcWptpjRifR1NU6v5jdXRg/viewform?vc=0&c=0&w=1&flr=0&pli=1) poll if you haven't already ☑️
-* Go over the [Syllabus](https://github.com/cgiamarino9/24W-UP221) 📜
-* Sign up for the course [Slack channel](https://join.slack.com/t/24w-up221/shared_invite/zt-2a3ipi7fa-J2T3HyDezDLVabcIzG7V_w). We will collaborate, code, and troubleshoot there. 
+* Fill out the [pre-class](https://docs.google.com/forms/d/e/1FAIpQLSeuTIzxsDMwgIeTe9eDt3FWIXBUkegak5Ko84B-Mf3xbIJ6Eg/viewform?vc=0&c=0&w=1&flr=0) poll if you haven't already ☑️
+* Go over the [Syllabus](https://github.com/cgiamarino9/25W-UP221) 📜
+* Sign up for the course [Slack channel](https://join.slack.com/t/up221-25w/shared_invite/zt-2x4z8l969-vku9X12oI_Ew_6fwb4hvDQw). We will collaborate, code, and troubleshoot there. 
 
 ## Meet your TA's
-  * Ariella Ventura 
-  * Lucy Briggs
+  * Carl de Joya 
+  * Nick Giorgio
 
 ## Logistics
 * Two monitors encouraged
@@ -94,7 +94,7 @@ Collaboration
 ## Set your environment
 First, grab the course material, and "pull" it into your JupyterHub space:
 
-* [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcgiamarino9%2F24W-UP221&urlpath=lab%2Ftree%2F24W-UP221%2F&branch=main) (This link will automatically launch JupyterHub and clone the course material into your directory)
+* [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcgiamarino9%2F25W-UP221&urlpath=lab%2Ftree%2F25W-UP221%2F&branch=main) (This link will automatically launch JupyterHub and clone the course material into your directory)
 
 ##
 
@@ -106,13 +106,13 @@ Today's lab will cover the following topics:
 
 # Individual Assignments
 
-There are three deliverables this week. Each are due on Sunday by midnight. Week 1's assignments are due January 14th, 2024 by 11:59 PM. Each assignment must be posted in the [class discussion section](https://github.com/cgiamarino9/24W-UP221/discussions).
+There are three deliverables this week. Each are due on Sunday by midnight. Week 1's assignments are due January 14th, 2024 by 11:59 PM. Each assignment must be posted in the [class discussion section](https://github.com/cgiamarino9/25W-UP221/discussions).
 
 ## #1. Create a GitHub account, and start a new repo
 
-*   Create a GitHub account, and create a project repo named “up221-yourfirstname” - [Instructions](https://github.com/cgiamarino9/24W-UP221/blob/main/Git%20related/02%20-%20Create%20your%20class%20repo.md)
+*   Create a GitHub account, and create a project repo named “up221-yourfirstname” - [Instructions](https://github.com/cgiamarino9/25W-UP221/blob/main/Git%20related/02%20-%20Create%20your%20class%20repo.md)
 *   Create a Readme.md file in your GitHub class repo, and introduce your Data Science project space (hint: use this [markdown guide](https://guides.github.com/features/mastering-markdown/))
-*  Submit your assignment [here](https://github.com/cgiamarino9/24W-UP221/discussions/2)
+*  Submit your assignment [here](https://github.com/cgiamarino9/25W-UP221/discussions/2)
 
 ## #2. Submit two or more datasets
 Search for two or more potential data sources that you may use for your research. If you are you using a web resource, make sure that they are "downloadable." Upload your datasets to your repo. First, create a folder titled "data," and upload your datasets in there.
@@ -125,7 +125,7 @@ Search for two or more potential data sources that you may use for your research
 - shapefile
 - API source
 
-### Submit your dataset assigment [here](https://github.com/cgiamarino9/24W-UP221/discussions/3), and make sure to provide the following information for each of your two datasets:
+### Submit your dataset assigment [here](https://github.com/cgiamarino9/25W-UP221/discussions/1), and make sure to provide the following information for each of your two datasets:
 
 1. Name of the data
 1. Description of the data and how you may use it for your project
@@ -143,4 +143,4 @@ Then, write post with two parts:
 
 The instructors will select a few of the readings for discussion in week 2.
 
-Submit your assignment [here](https://github.com/cgiamarino9/24W-UP221/discussions/1).
+Submit your assignment [here](https://github.com/cgiamarino9/25W-UP221/discussions/3).
