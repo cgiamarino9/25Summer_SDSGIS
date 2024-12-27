@@ -26,7 +26,7 @@ Anti-Road Rage | Catherine Ren, Jiaming Zhu, Kailong Ji, Yaofa Gong, Qingyang Xu
 
 ### Individual assignment: Provide feedback to one (or more) midterm projects
 
-Go to the discussion section and navigate to the [midterm assignments](https://github.com/cgiamarino9/24W-UP221/discussions/8). Provide feedback to **one other midterm projects**, making sure to include the following:
+Go to the discussion section and navigate to the [midterm assignments](https://github.com/cgiamarino9/25W-UP221/discussions/9). Provide feedback to **one other midterm projects**, making sure to include the following:
 
 - What you liked about the project. Be specific!
 - What you recommend the project can work on/improve on for the final (data suggestions (with links), code advice (usage of functions, loops, etc), features, additional layers, design/interactive components, improved layout, narrative flow, etc)

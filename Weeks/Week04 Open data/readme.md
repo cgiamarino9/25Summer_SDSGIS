@@ -28,9 +28,9 @@ Open Data Exploration
 
 </xl>
 
-[Course Zoom](https://ucla.zoom.us/j/94971812993?pwd=NjI4bkxRR2s3Q0FVblU0WmlHbXNodz09)
+[Recurring Zoom link for Winter 2025](https://ucla.zoom.us/j/92932552160?pwd=1SjIMPWzWJv8mmyb7pbQX1IOickbAp.1)
 
-January 29, 2024
+January 27, 2025
 
 ##
 <xl>
@@ -47,7 +47,7 @@ January 29, 2024
 <br>
 
 <p style="text-align: left"> <font size ="6">
-I am currently hosting office hours after class for one hour from 8 pm to 9 pm. Please pick one additional day and time that works for you on this Google Poll. If Monday after class does not work for the majority of you, pick two days and two hour time slots that work for you for virtual office hours. I am also available via email and slack.</font></p> 
+I am currently hosting office hours after class for one hour from 5 to 6 pm. Please pick one additional day and time that works for you on this Google Poll. If Monday after class does not work for the majority of you, pick two days and two hour time slots that work for you for virtual office hours. I am also available via email and slack.</font></p> 
 
 ##
 <xl>
@@ -57,7 +57,7 @@ I am currently hosting office hours after class for one hour from 8 pm to 9 pm. 
 </xl>
 <br>
 <p style="text-align: left"> 
-If you and your group would like to meet with me for 30 minutes to discuss your proposal, data sources, and python modules/libraries that may benefit your project, please sign up for a time slot on the Google Sheet. Otherwise, I will provide a detailed email with feedback, additional data sources, and python library modules and funcions you will want to look into for your group projects before the midterm on week 6. </p>
+If you and your group would like to meet with me for 30 minutes to discuss your proposal, data sources, and python modules/libraries that may benefit your project, please sign up for a time slot on the Google Sheet. Otherwise, I will provide a detailed email with feedback, additional data sources, and python library modules and funcions you will want to look into for your group projects before the midterm on week 6. Send me an email if you would like to schedule an alternative time. </p>
 
 ##
 
@@ -98,7 +98,7 @@ Public sidewalk characters and the sidewalk ballet
 ## Hands on Lab
 First, grab the course material, and "pull" it into your JupyterHub:
 
-* [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcgiamarino9%2F24W-UP221&urlpath=lab%2Ftree%2F24W-UP221%2F&branch=main) 
+* [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcgiamarino9%2F25W-UP221&urlpath=lab%2Ftree%2F25W-UP221%2F&branch=main) 
 (This link will automatically launch JupyterHub and clone the course material into your directory)
 
 <small>Note that you have to do this at the start of every lecture to get the latest material.
@@ -117,7 +117,7 @@ Mapping arrests
 </xl>
 
 
-# Assignments (due 11:59 Sunday, February 4 the day before class)
+# Assignments (due 11:59 Sunday, February 2 the day before class)
 
 
 ## Mini Group Assignment
@@ -147,7 +147,7 @@ Include the following sections:
 
 ### Submit
 
-Submit your updated proposal [here](https://github.com/cgiamarino9/24W-UP221/discussions/7).
+Submit your updated proposal [here](https://github.com/cgiamarino9/25W-UP221/discussions/8).
 
 ## Individual Coding Assignment
 
@@ -172,6 +172,6 @@ This assignment can be as long or as short as you desire. It is meant to review 
 - provide ample markdown cells (preferrably before and after each code cell) that explains what you are going to do, and how you interpret the results)
 - upload your notebook to your GitHub account
 
-Submit a link to your notebook [here](https://github.com/cgiamarino9/24W-UP221/discussions/6).
+Submit a link to your notebook [here](https://github.com/cgiamarino9/25W-UP221/discussions/7).
 
 

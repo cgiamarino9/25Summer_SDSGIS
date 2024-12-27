@@ -27,9 +27,9 @@ Spatial Data Exploration
 
 </xl>
 
-[Course zoom link for Winter Quarter 2024](https://ucla.zoom.us/j/94971812993?pwd=NjI4bkxRR2s3Q0FVblU0WmlHbXNodz09)
+[Recurring Zoom link for Winter 2025](https://ucla.zoom.us/j/92932552160?pwd=1SjIMPWzWJv8mmyb7pbQX1IOickbAp.1)
 
-January 15, 2024
+January 13, 2024
 
 ##
 <xl>
@@ -70,7 +70,7 @@ Making space at the West LA Courthouse
 ## Hands on Lab
 First, grab the course material, and "pull" it into your JupyterHub:
 
-* [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcgiamarino9%2F24W-UP221&urlpath=lab%2Ftree%2F24W-UP221%2F&branch=main) 
+* [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcgiamarino9%2F25W-UP221&urlpath=lab%2Ftree%2F25W-UP221%2F&branch=main) 
 (This link will automatically launch JupyterHub and clone the course material into your directory)
 
 <small>Note that you have to do this at the start of every lecture to get the latest material.
@@ -86,13 +86,13 @@ First, grab the course material, and "pull" it into your JupyterHub:
 
 In order to pull and push content to GitHub, you must first create a token, which will serve as your password. Refer to this tutorial to create your token:
 
-* [How to create a token](https://github.com/cgiamarino9/24W-UP221/blob/main/Git%20related/Create%20a%20token.md)
+* [How to create a token](https://github.com/cgiamarino9/25W-UP221/blob/main/Git%20related/Create%20a%20token.md)
 
 ### Clone your repo
 
 This is your first code assignment submission. Before you begin, create a clone of your repo in JupyterHub.
 
-* [How to clone your repo into JupyterHub](https://github.com/cgiamarino9/24W-UP221/blob/main/Git%20related/Clone%20repo%20to%20hub.md)
+* [How to clone your repo into JupyterHub](https://github.com/cgiamarino9/25W-UP221/blob/main/Git%20related/Clone%20repo%20to%20hub.md)
 
 ### Submission guidelines:
 
@@ -139,8 +139,8 @@ Save your notebook.
 
 Commit your changes to your GitHub repo by following these instructions:
 
-* [How to commit and push to your repo](https://github.com/cgiamarino9/24W-UP221/blob/main/Git%20related/Commit%20and%20push.md)
+* [How to commit and push to your repo](https://github.com/cgiamarino9/25W-UP221/blob/main/Git%20related/Commit%20and%20push.md)
 
 ### Submit your assignment 
 
-The last step is to submit your assignment to the class repo discussion section [here](https://github.com/cgiamarino9/24W-UP221/discussions/4).
+The last step is to submit your assignment to the class repo discussion section [here](https://github.com/cgiamarino9/25W-UP221/discussions/4).

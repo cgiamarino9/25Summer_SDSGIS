@@ -28,15 +28,15 @@ Open Street Map (OSMNX)
 
 </xl>
 
-[Course Zoom](https://ucla.zoom.us/j/94971812993?pwd=NjI4bkxRR2s3Q0FVblU0WmlHbXNodz09)
+[Recurring Zoom link for Winter 2025](https://ucla.zoom.us/j/92932552160?pwd=1SjIMPWzWJv8mmyb7pbQX1IOickbAp.1)
 
-February 5, 2024
+February 3, 2025
 
 ## Let's pull
 
 First, grab the course material, and "pull" it into your JupyterHub:
 
-* [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcgiamarino9%2F24W-UP221&urlpath=lab%2Ftree%2F24W-UP221%2F&branch=main) 
+* [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcgiamarino9%2F25W-UP221&urlpath=lab%2Ftree%2F25W-UP221%2F&branch=main) 
 (This link will automatically launch JupyterHub and clone the course material into your directory). 
 
 <small>Note that you have to do this at the start of every lecture to get the latest material.
@@ -65,7 +65,7 @@ First, grab the course material, and "pull" it into your JupyterHub:
 </xl>
 
 
-## [Midterms (Materials due 5pm Monday, February 12 the day of class!)](https://github.com/cgiamarino9/24W-UP221/tree/main/Midterm%20and%20Finals#midterms-20-of-your-final-grade)
+## [Midterms (Materials due 2pm Monday, February 10 the day of class!)](https://github.com/cgiamarino9/25W-UP221/tree/main/Midterm%20and%20Finals#midterms-20-of-your-final-grade)
 - Presentations
   -  10 minutes per group
   -  Each group member must present a portion of the project, for roughly an equal time of the presentation
@@ -80,4 +80,4 @@ First, grab the course material, and "pull" it into your JupyterHub:
   - Talk to the audience, not your computer or the screen
   - Show your passion!
 
-**Submit your midterm materials [here](https://github.com/cgiamarino9/24W-UP221/discussions/8)**
+**Submit your midterm materials [here](https://github.com/cgiamarino9/25W-UP221/discussions/9)**
