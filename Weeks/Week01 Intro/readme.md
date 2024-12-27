@@ -72,7 +72,7 @@ January 6, 2025
 * Two monitors encouraged
   * Laptop + external monitor
   * Laptop + iPad
-  * Laptop + cell phone)
+  * Laptop + cell phone
 * Zoom setup: video **ON** by default PLEASE!
 * Slack: **ALL** coding questions must be posted on slack
 * [the ultimate T.A.'s guide to success](https://docs.google.com/document/d/14fz3iSSb76PDiyqY8ZGDpao3umKMgvvR5NtvQwOsJao/edit)
