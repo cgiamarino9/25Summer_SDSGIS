@@ -62,7 +62,7 @@ January 6, 2025
 * Mark your [attendance ✅](https://docs.google.com/spreadsheets/d/15hvcbzJbfwa70KvKMWUG63oyRWaY_NEfx4pVJpi_f6w/edit?usp=sharing) 
 * Fill out the [pre-class](https://docs.google.com/forms/d/e/1FAIpQLSeuTIzxsDMwgIeTe9eDt3FWIXBUkegak5Ko84B-Mf3xbIJ6Eg/viewform?vc=0&c=0&w=1&flr=0) poll if you haven't already ☑️
 * Go over the [Syllabus](https://github.com/cgiamarino9/25W-UP221) 📜
-* Sign up for the course [Slack channel](https://join.slack.com/t/up221-25w/shared_invite/zt-2x4z8l969-vku9X12oI_Ew_6fwb4hvDQw). We will collaborate, code, and troubleshoot there. 
+* Sign up for the course [Slack channel](https://join.slack.com/t/up221-25w/shared_invite/zt-2x4z8l969-vku9X12oI_Ew_6fwb4hvDQ). We will collaborate, code, and troubleshoot there. 
 
 ## Meet your TA's
   * Carl de Joya 
