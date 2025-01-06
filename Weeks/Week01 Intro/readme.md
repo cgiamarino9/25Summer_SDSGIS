@@ -94,7 +94,7 @@ Collaboration
 ## Set your environment
 First, grab the course material, and "pull" it into your JupyterHub space:
 
-* [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcgiamarino9%2F25W-UP221&urlpath=lab%2Ftree%2F25W-UP221%2F&branch=main) (This link will automatically launch JupyterHub and clone the course material into your directory; in future weeks we will Git Fetch)
+* [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcgiamarino9%2F25W-UP221&urlpath=lab%2Ftree%2F25W-UP221%2F&branch=main) (This link will automatically launch JupyterHub and clone the course material into your directory; in future weeks we will use terminal to Git Pull any changes)
 
 ##
 
