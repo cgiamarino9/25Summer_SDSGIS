@@ -27,7 +27,7 @@ UP221: Introduction to GIS and Spatial Data Science
 
 </xl>
 
-[Course zoom link for Winter Quarter 2024](https://ucla.zoom.us/j/94971812993?pwd=NjI4bkxRR2s3Q0FVblU0WmlHbXNodz09)
+[Course zoom link for Winter Quarter 2025](https://ucla.zoom.us/j/94971812993?pwd=NjI4bkxRR2s3Q0FVblU0WmlHbXNodz09)
 
 January 6, 2025
 
@@ -63,6 +63,7 @@ January 6, 2025
 * Fill out the [pre-class](https://docs.google.com/forms/d/e/1FAIpQLSeuTIzxsDMwgIeTe9eDt3FWIXBUkegak5Ko84B-Mf3xbIJ6Eg/viewform?vc=0&c=0&w=1&flr=0) poll if you haven't already ☑️
 * Go over the [Syllabus](https://github.com/cgiamarino9/25W-UP221) 📜
 * Sign up for the course [Slack channel](https://join.slack.com/t/up221-25w/shared_invite/zt-2x4z8l969-vku9X12oI_Ew_6fwb4hvDQ). We will collaborate, code, and troubleshoot there. 
+* Check out this [open source and big data document](https://docs.google.com/document/d/1pI-rVx19inCVbT9175Qw3C6WFirRsoFoiigMOTSlmXc/edit?usp=sharing) for links to geospatial data. Add sources; do not delete sources. 
 
 ## Meet your TA's
   * Carl de Joya 
