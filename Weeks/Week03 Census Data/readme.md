@@ -79,7 +79,7 @@ First, grab the course material, and "pull" it into your JupyterHub:
 
 <left>
 
-The course will largely be guided by your final project, which will be conducted in groups of 4-5. Consider that your final project will be a representation of what you learn in this course, and how you apply it on a project level. Consider also that your final project can serve to showcase your data science and mapping skills, which may become a valuable asset for your career moving forward.
+The course will largely be guided by your final project, which will be conducted in groups of 2-4. Consider that your final project will be a representation of what you learn in this course, and how you apply it on a project level. Consider also that your final project can serve to showcase your data science and mapping skills, which may become a valuable asset for your career moving forward.
 
 
 ### Step 1: Plan

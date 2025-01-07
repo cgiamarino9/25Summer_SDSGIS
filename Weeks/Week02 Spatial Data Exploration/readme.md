@@ -65,10 +65,23 @@ Making space at the West LA Courthouse
 ![bg](../images/contest5.jpg)
 
 
+## Group formation for midterm and final projects
+
+* Open and review the [midterm and final project guidelines](https://github.com/cgiamarino9/25W-UP221/tree/main/Midterm%20and%20Finals#midterms-20-of-your-final-grade). 
+
+* Join breakout room with concentration/specialization you are interested in.
+
+* Introduce yourself and your proposed project in 1-2 sentences. 
+
+* Form groups of 2 - 4 students
+
+* Fill out Google Form with group name, title, description, names and emails by next Sunday, January 19th at 11:59 pm.
+
+* The form is not graded, but it will help you with your midterm proposal due after Week 3. You are welcome to submit the [group project proposal assignment](https://github.com/cgiamarino9/25W-UP221/discussions/5) when your group is ready. It is due January 26th at 11:59 pm. 
 
 
 ## Hands on Lab
-First, grab the course material, and "pull" it into your JupyterHub:
+* First, grab the course material, and "pull" it into your JupyterHub:
 
 * [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcgiamarino9%2F25W-UP221&urlpath=lab%2Ftree%2F25W-UP221%2F&branch=main) 
 (This link will automatically launch JupyterHub and clone the course material into your directory)
