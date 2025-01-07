@@ -60,27 +60,6 @@ Street art in Italy
 
 ![bg](../images/gator.JPG)
 
-##
-<xl>
-My rainy weekend ...
-</xl>
-
-##
-
-![width:700px](../images/courts.JPG)
-
-##
-
-![bg](../images/burbank.JPG)
-
-##
-
-![width:700px](../images/blue.JPG)
-
-##
-
-![width:700px](../images/walts.JPG)
-
 ## Hands on Lab
 First, grab the course material, and "pull" it into your JupyterHub:
 
@@ -137,7 +116,7 @@ Your project proposal should include the following:
 *   A concluding paragraph of what insights you expect to gain from your research
 
 ### Step 5: Submit
-Submit your assignment [here](https://github.com/cgiamarino9/25W-UP221/discussions/59)
+Submit your assignment [here](https://github.com/cgiamarino9/25W-UP221/discussions/5)
 
 ## Group Assignment #2
 
