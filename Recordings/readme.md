@@ -1,7 +1,7 @@
 # Course recordings
 Recordings will be made available within a day after the class. These recordings are password protected and only available to students who are currently enrolled.
 
-[Week 1 Welcome and Python Boot Camp](https://ucla.zoom.us/rec/share/OH2s_skoMy1ge8hjCm8FlS_ig8r5OBBHu6sqpQMYpLz4qmwuUp-LejYa1P7uosU.YKID7-XBsJY8F5Zb)
+[Week 1 Welcome and Python Boot Camp](https://ucla.zoom.us/rec/share/IgvSLkmhbcnL-zKYpQTYuhZpcYhr0NZr0j1tEUWmCph2344tm9jOdne3neW_sjzl.qcwvCtjyw5YzR50T)
 
 
 [Week 2 Spatial Data Exploration](https://ucla.zoom.us/rec/share/8tuPDhcPttNN0pMbmGouiWJKgo-CIqygF06053i7SaYNbUMjakky6QiA1y1eUJbQ.3E5W-MGsP0nDk675)
