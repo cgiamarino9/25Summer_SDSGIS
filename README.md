@@ -40,7 +40,7 @@ Ben Winjum (bwinjum@ucla.edu)
 
 * TA 1: Carl, Tuesdays 1 - 3 pm 
 
-* TA 2: Nick, 
+* TA 2: Nick, Thursdays 5 - 7 pm
 
 ## Course Description
 
