@@ -76,6 +76,6 @@ Submit links to the following items in [this discussion section](hhttps://github
 
 **Story Maps**: 
 * [Example of storytelling through maps 'The literay life of Octavia E. Butler'](https://www.latimes.com/projects/la-libraries-octavia-butler-books-life/).
-* [Example Story Map on Transit Gaps from Lucy's team last year](https://arcg.is/0rTDa5). 
+* [Example Story Map on collisions and transit safety from Nick's team last year](https://arcg.is/141L010). 
 * [Example Story Map on the relationship between redlining and helath inequities](https://arcg.is/0Ca0Cm). 
-* [Example Google Site rom Chinatown Community for Equitable Development](https://sites.google.com/g.ucla.edu/up221-chinatown?pli=1). 
+* [Example Google Site from Chinatown Community for Equitable Development](https://sites.google.com/g.ucla.edu/up221-chinatown?pli=1). 
