@@ -41,28 +41,32 @@ January 13, 2025
 ##
 
 <xl>
-Making space at the West LA Courthouse
+2025 LA Wildfires: Recovery Resources
 </xl>
 
 ##
 
-![bg](../images/contest1.jpg)
+<xl> Volunteer, recovery, and relief resources
+<xl>
+
+* Mutual Aid LA [Google Doc resources](https://docs.google.com/spreadsheets/u/1/d/1KMk34XY5dsvVJjAoD2mQUVHYU_Ib6COz6jcGH5uJWDY/htmlview?usp=sharing&fbclid=PAZXh0bgNhZW0CMTEAAaYPJ-9_5yMHnw8jV-zoxTpablIDDM80At2DrBzEjHBljUZsh00Zg9fq81g_aem_Lb1Ux2Ml4lg8tavGSwEp9w)
+
+* LAist: [Want to help fire victims? Here's what experts say does the most good and places seeking volunteers](https://laist.com/news/climate-environment/how-to-help-la-fire-victims)
+
+* LAist: [A quick roundup of SoCal fire coverage and safety resources](https://laist.com/news/climate-environment/southern-california-fires-tips-resources)
+
+* LAist: [Help for fire victims](https://laist.com/brief/news/climate-environment/resources-for-socal-fire-victims-evacuees-and-first-responders)
+
+
 
 ##
 
-![bg](../images/contest2.jpg)
+<xl> GIS resources
+<xl>
 
-##
+* Watch Duty Live [Wildfire Maps and Evacuation Notifications](https://app.watchduty.org/)
 
-![bg](../images/contest3.jpg)
-
-##
-
-![bg](../images/contest4.jpg)
-
-##
-
-![bg](../images/contest5.jpg)
+* [Air Quality map](https://gispub.epa.gov/airnow/)
 
 
 ## Group formation for midterm and final projects
