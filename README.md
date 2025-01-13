@@ -38,9 +38,9 @@ Ben Winjum (bwinjum@ucla.edu)
 
 * Chris, Mondays 5 - 6 pm, Virtual via [Recurring Zoom link](https://ucla.zoom.us/j/92932552160?pwd=1SjIMPWzWJv8mmyb7pbQX1IOickbAp.1)
 
-* TA 1: Carl, Tuesdays 1 - 3 pm, In the Luskin lab or you can access the [Recurring Zoom Link](https://ucla.zoom.us/j/97586307216)
+* TA 1: Carl, Tuesdays 1 - 3 pm, Virtual via [Recurring Zoom Link](https://ucla.zoom.us/j/97586307216)
 
-* TA 2: Nick, Thursdays 4 -6 pm, Virtual via [Recurring Zoom Link](https://us04web.zoom.us/j/75697101579?pwd=zkPamGfdN4CSzvNXvEareAaX6Utw5a.1)
+* TA 2: Nick, Wednesdays 2 - 4 pm, Virtual via [Recurring Zoom Link](https://us04web.zoom.us/j/75697101579?pwd=zkPamGfdN4CSzvNXvEareAaX6Utw5a.1)
 
 ## Course Description
 
