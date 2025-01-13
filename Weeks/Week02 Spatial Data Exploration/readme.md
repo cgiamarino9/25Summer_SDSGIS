@@ -70,19 +70,17 @@ January 13, 2025
 * [Air Quality map](https://gispub.epa.gov/airnow/)
 
 
-## Group formation for midterm and final projects
+### Group formation for midterm and final projects
+<span style="font-size=20px">
 
-* Open and review the [midterm and final project guidelines](https://github.com/cgiamarino9/25W-UP221/tree/main/Midterm%20and%20Finals#midterms-20-of-your-final-grade). 
+* Open and review the [midterm and final project guidelines](https://github.com/cgiamarino9/25W-UP221/tree/main/Midterm%20and%20Finals#midterms-20-of-your-final-grade). </span>
 
-* Join breakout room with concentration/specialization you are interested in.
+* Join breakout room with concentration/specialization you are interested in. Introduce yourself and your proposed project in 1-2 sentences. 
 
-* Introduce yourself and your proposed project in 1-2 sentences. 
-
-* Form groups of 2 - 4 students
-
-* Fill out Google Form with group name, title, description, names and emails by next Sunday, January 19th at 11:59 pm.
+* Form groups of 3 - 4 students. Fill out [Google Sheet](https://docs.google.com/spreadsheets/d/1-rRSw8TlMlMcOlFQrFCc0PW6SsT9Snkrl3UaXNTKZkw/edit?gid=0#gid=0) with group name, title, description, names and emails by next Sunday, January 19th at 11:59 pm.
 
 * The form is not graded, but it will help you with your midterm proposal due after Week 3. You are welcome to submit the [group project proposal assignment](https://github.com/cgiamarino9/25W-UP221/discussions/5) when your group is ready. It is due January 26th at 11:59 pm. 
+</span>
 
 
 ## Hands on Lab
