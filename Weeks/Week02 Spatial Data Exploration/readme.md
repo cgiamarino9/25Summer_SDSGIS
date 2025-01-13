@@ -49,6 +49,7 @@ January 13, 2025
 <xl> Volunteer, recovery, and relief resources
 <xl>
 
+* Sign up for [BruinALERT](https://oem.ucla.edu/bruinalert) from Office of Emergency Management for UCLA Emergency and Evacuation updates.  
 * Mutual Aid LA [Google Doc resources](https://docs.google.com/spreadsheets/u/1/d/1KMk34XY5dsvVJjAoD2mQUVHYU_Ib6COz6jcGH5uJWDY/htmlview?usp=sharing&fbclid=PAZXh0bgNhZW0CMTEAAaYPJ-9_5yMHnw8jV-zoxTpablIDDM80At2DrBzEjHBljUZsh00Zg9fq81g_aem_Lb1Ux2Ml4lg8tavGSwEp9w)
 
 * LAist: [Want to help fire victims? Here's what experts say does the most good and places seeking volunteers](https://laist.com/news/climate-environment/how-to-help-la-fire-victims)
