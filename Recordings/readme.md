@@ -4,7 +4,7 @@ Recordings will be made available within a day after the class. These recordings
 [Week 1 Welcome and Python Boot Camp](https://ucla.zoom.us/rec/share/IgvSLkmhbcnL-zKYpQTYuhZpcYhr0NZr0j1tEUWmCph2344tm9jOdne3neW_sjzl.qcwvCtjyw5YzR50T)
 
 
-[Week 2 Spatial Data Exploration](https://ucla.zoom.us/rec/share/8tuPDhcPttNN0pMbmGouiWJKgo-CIqygF06053i7SaYNbUMjakky6QiA1y1eUJbQ.3E5W-MGsP0nDk675)
+[Week 2 Spatial Data Exploration](https://ucla.zoom.us/rec/share/PcpXs6KfTqUrccQurTShN9ij-N03HpLokPnWssS5CPGESqERdoWSZU0kZAkpBRO1.G7N1b6gn9CvZV_uN)
 
 [Week 3 Census Data Exploration](https://ucla.zoom.us/rec/share/Pm_BL-w8uwr-ghJiheXxpzHVnA0K-WJeqzWwPyO3pnRpn5r7HPjdV2to2aYB_0yq.N0A4LTLTbsFcr3ly)
 
