@@ -31,7 +31,7 @@ Census Data Exploration
 [Recurring Zoom link for Winter 2025](https://ucla.zoom.us/j/92932552160?pwd=1SjIMPWzWJv8mmyb7pbQX1IOickbAp.1)
 
 
-January 20, 2025
+January 21, 2025 (make-up class)
 
 ##
 <xl>
@@ -40,33 +40,14 @@ January 20, 2025
 
 </xl>
 
-##
-
-<xl>
-Street art in Italy
-</xl>
-
-##
-
-![width:500px](../images/cigs.JPG)
-
-
-##
-
-![bg](../images/rome.JPG)
-
-
-##
-
-![bg](../images/gator.JPG)
 
 ## Hands on Lab
-First, grab the course material, and "pull" it into your JupyterHub:
+* First, grab the course material, and "pull" it into your JupyterHub:
 
 * [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcgiamarino9%2F25W-UP221&urlpath=lab%2Ftree%2F25W-UP221%2F&branch=main) 
 (This link will automatically launch JupyterHub and clone the course material into your directory)
 
-<small>Note that you have to do this at the start of every lecture to get the latest material.
+* <small>Note that you have to do this at the start of every lecture to get the latest material.
 </small>
 
 
