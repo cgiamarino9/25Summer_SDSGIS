@@ -6,7 +6,7 @@ Recordings will be made available within a day after the class. These recordings
 
 [Week 2 Spatial Data Exploration](https://ucla.zoom.us/rec/share/PcpXs6KfTqUrccQurTShN9ij-N03HpLokPnWssS5CPGESqERdoWSZU0kZAkpBRO1.G7N1b6gn9CvZV_uN)
 
-[Week 3 Census Data Exploration](https://ucla.zoom.us/rec/share/Pm_BL-w8uwr-ghJiheXxpzHVnA0K-WJeqzWwPyO3pnRpn5r7HPjdV2to2aYB_0yq.N0A4LTLTbsFcr3ly)
+[Week 3 Census Data Exploration](https://ucla.zoom.us/rec/share/18a26oe_-FNbanpMz53oP-eZaUsoCbfW_6K-6tGggDKMaHE1Jirv18BjKrqEkU-n.wBRhEk3PE1C_1Jxk)
 
 [Week 4 Open Data Exploration](https://ucla.zoom.us/rec/share/EItZJHpcz99YTehtX_-4DbF5wgRqg9ABRnMhvDj6hpeRU_Mgu65tTNwoprrkTGNM.JcuvDOdiCIcBHIP9)
 
