@@ -67,7 +67,7 @@ First, grab the course material, and "pull" it into your JupyterHub:
 
 ## [Midterms (Materials due 2pm Monday, February 10 the day of class!)](https://github.com/cgiamarino9/25W-UP221/tree/main/Midterm%20and%20Finals#midterms-20-of-your-final-grade)
 - Presentations
-  -  10 minutes per group
+  -  12 minutes per group
   -  Each group member must present a portion of the project, for roughly an equal time of the presentation
   -  You can use any form of visual aids, including powerpoints, google slides, spreadsheets, and/or JupyterNotebooks
   -  Prepare and rehearse
