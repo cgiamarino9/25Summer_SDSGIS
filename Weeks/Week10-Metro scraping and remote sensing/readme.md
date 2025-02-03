@@ -29,7 +29,7 @@ Final Workshop
 
 </xl>
 
-[Course Zoom](https://ucla.zoom.us/j/94971812993?pwd=NjI4bkxRR2s3Q0FVblU0WmlHbXNodz09)
+[Course Zoom](https://www.google.com/url?q=https://ucla.zoom.us/j/92932552160?pwd%3D1SjIMPWzWJv8mmyb7pbQX1IOickbAp.1&sa=D&source=calendar&ust=1739043238546166&usg=AOvVaw3vUbNDO7WnZWeHgEEOwSov)
 
 
 
@@ -39,13 +39,13 @@ Final Workshop
 <xl>
 Course evaluation (take 5-10 minutes during class time)
 </xl>
-Friendly reminder (for the 3rd or 4th time)
+<br> * Friendly reminder (for the 3rd or 4th time) </br>
 
 ## Let's pull (optional if you'd like to look at Metro API and Remote Sensing imagery)
 
 First, grab the course material, and "pull" it into your JupyterHub:
 
-* [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcgiamarino9%2F24W-UP221&urlpath=lab%2Ftree%2F24W-UP221%2F&branch=main) 
+* [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcgiamarino9%2F25W-UP221&urlpath=lab%2Ftree%2F25W-UP221%2F&branch=main)  
 (This link will automatically launch JupyterHub and clone the course material into your directory). 
 
 <small>Note that you have to do this at the start of every lecture to get the latest material.
@@ -59,7 +59,7 @@ FINAL PROJECT WORKSHOP!
 ## Final project presentations
 
 <xl>
-March 18th, Monday 5pm~
+March 17th, Monday 2pm - 5 pm
 
 </xl>
 

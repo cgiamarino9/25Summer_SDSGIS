@@ -28,15 +28,15 @@ Isochrone Maps
 
 </xl>
 
-[Course Zoom](https://ucla.zoom.us/j/94971812993?pwd=NjI4bkxRR2s3Q0FVblU0WmlHbXNodz09)
+[Course Zoom](https://www.google.com/url?q=https://ucla.zoom.us/j/92932552160?pwd%3D1SjIMPWzWJv8mmyb7pbQX1IOickbAp.1&sa=D&source=calendar&ust=1739043238546166&usg=AOvVaw3vUbNDO7WnZWeHgEEOwSov)
 
-February 20, 2024
+February 17, 2025
 
 ## Let's pull
 
 First, grab the course material, and "pull" it into your JupyterHub:
 
-* [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcgiamarino9%2F24W-UP221&urlpath=lab%2Ftree%2F24W-UP221%2F&branch=main) 
+* [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcgiamarino9%2F25W-UP221&urlpath=lab%2Ftree%2F25W-UP221%2F&branch=main) 
 (This link will automatically launch JupyterHub and clone the course material into your directory). 
 
 <small>Note that you have to do this at the start of every lecture to get the latest material.
@@ -118,6 +118,6 @@ Group Assignment #3
 
 </xl>
 
-[Instructions](https://github.com/cgiamarino9/24W-UP221/blob/main/Group%20Assignments/GroupAssignment3.md)
+[Instructions](https://github.com/cgiamarino9/25W-UP221/blob/main/Group%20Assignments/GroupAssignment3.md)
 
 Submit your assignment [here](https://github.com/cgiamarino9/24W-UP221/discussions/10)
