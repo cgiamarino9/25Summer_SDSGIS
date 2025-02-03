@@ -8,19 +8,15 @@ Order to be determined during class:
 
 Topic | Students
 --|--
-Food Access in LA County | Branden Bohrnsen, Jessica Fay, Madilynn Hamilton, Meaghan Woody
-Planner for Climate Justice | Max Kilman, Allison Kirste, Nasir Sakandar, Jazz Henry
-Climate Group | Aneesa Gomez-Cervantes, Pa-Shun Hawkins, Yu Wang
-Confronting Collisions | Sonia Garfinkel, Fonda Hu, Nick Giorgio, Eisha Shakeel, Leila Moinpour
-Wildfire | Chendi Zhang
-NutriNet | Maya Coronado, Savannah Gourley, Ashley Jahja, Xander Lee, Kiran Rao
-Evictions Resisters | Kristal Ombogo, Jack Fukushima, Daisy Mugodzeri, Roberto Diaz
-Transit Corridors | Alain Jabbour, Simon Han, Tomohiro Ujikawa, Celine Cao
-Motor City Motor Equity | Akshay Jalluri
-Park Equity In Unincorporated LA | Miles Kim Parr, Max Garcia, Aydin Pasebani, Annie Chan, Rodrigo Gutierrez
-LA County Oil Wells | Madalyn Bryant, Katie Greenler, Myranda Arreola, Luis Garcia Chavez, Divine Mutoni
-Grid Lock Gurus | Angie Chapman, Jala Abner, Jose Portales, Young Choi
-Anti-Road Rage | Catherine Ren, Jiaming Zhu, Kailong Ji, Yaofa Gong, Qingyang Xu
+LA County Oaks | Ethan, Caroline, Will
+Mapping Extraction | Amil, Leila, Hollis
+Cooling Resources | Cailyn, Mia, Sienna, Zixuan
+SF Transportation | Abigail, Ronald, Caleb
+Collisions in LA County | Emily, Gema, Veronica
+Beyond Demolition | Judy
+Wildfires and Rent | Elizabeth, Gina, Bryzen, Leo
+Equity Bikeshares | Jia, Xingxiang, Yuxiang, Hao, Yanling
+Vote Centers | Cameron
 
 ## Assignments
 
