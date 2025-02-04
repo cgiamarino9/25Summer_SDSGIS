@@ -11,7 +11,7 @@ Recordings will be made available within a day after the class. These recordings
 [Week 4 - Open Data Exploration](https://ucla.zoom.us/rec/share/SdwuXkO7wd6ySIMFCKm8tzHTPY-uYboJj2b6_vt9ljRJg0U5G0tPf30uH59wNbjL.tbjAtkJPuofEO2V2)
 
 
-[Week 5 - Open Street Map](https://ucla.zoom.us/rec/share/n3ayZxbwZUsuUs9J06C6L8p101PDiYCeJSXDWefJpvOX1amI8oAhetJZS6n59Hnw.koilBsIpuVx2DXLM)
+[Week 5 - Open Street Map](https://ucla.zoom.us/rec/share/UEQjacMtB_Lq2oJT8nb_JHFrhNwvE_7NKdaH8OGR06xOyJZSa9pNc-v5Hb5C0Jt9.Q1KS5Mn46WTG-rHu)
 
 [Week 6 - Midterm Presentations](https://ucla.zoom.us/rec/share/oOxJBQxMsRukPtGsNDlpURGwbKZvreaafLKhn6oe4isOsuQ0AOK3teOalbIUywmO.tooucWdq5BTC_tHX)
 
