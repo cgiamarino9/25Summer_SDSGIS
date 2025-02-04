@@ -11,7 +11,7 @@ Topic | Students
 LA County Oaks | Ethan, Caroline, Will
 Mapping Extraction | Amil, Leila, Hollis
 Cooling Resources | Cailyn, Mia, Sienna, Zixuan
-SF Transportation | Abigail, Ronald, Caleb
+SF Transportation | Abigail, Ronald, Caleb, Jasmine
 Collisions in LA County | Emily, Gema, Veronica
 Beyond Demolition | Judy
 Wildfires and Rent | Elizabeth, Gina, Bryzen, Leo
