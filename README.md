@@ -24,7 +24,7 @@ Chris Giamarino (cgiamarino@g.ucla.edu)
 
 ## Teaching Assistants:
 
-TA 1: Carl De Joy (carl.dejoya@g.ucla.edu)
+TA 1: Carl De Joya (carl.dejoya@g.ucla.edu)
 
 TA 2: Nick Giorgio (nickgiorgio310@g.ucla.edu)
 

@@ -16,7 +16,7 @@ Collisions in LA County | Emily, Gema, Veronica
 Beyond Demolition | Judy
 Wildfires and Rent | Elizabeth, Gina, Bryzen, Leo
 Equity Bikeshares | Jia, Xingxiang, Yuxiang, Hao, Yanling
-Vote Centers | Cameron
+
 
 ## Assignments
 
