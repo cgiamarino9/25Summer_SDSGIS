@@ -28,7 +28,7 @@ Isochrone Maps
 
 </xl>
 
-[Course Zoom](https://www.google.com/url?q=https://ucla.zoom.us/j/92932552160?pwd%3D1SjIMPWzWJv8mmyb7pbQX1IOickbAp.1&sa=D&source=calendar&ust=1739043238546166&usg=AOvVaw3vUbNDO7WnZWeHgEEOwSov)
+[Course Zoom](https://ucla.zoom.us/j/92932552160?pwd=1SjIMPWzWJv8mmyb7pbQX1IOickbAp.1)
 
 February 17, 2025
 
@@ -49,51 +49,7 @@ First, grab the course material, and "pull" it into your JupyterHub:
 
 </xl>
 
-##
 
-
-<xl>
-My weekend at Slow Impact 2
-</xl>
-<br>
-A little taste of a skateboarding retreat, festival, and conference in Arizona
-
-##
-
-![](../images/airport.jpeg)
-
-##
-
-![bg](../images/mitchell.jpeg)
-
-##
-
-![bg](../images/waymo.jpeg)
-
-##
-
-![bg](../images/mustang.jpeg)
-
-##
-
-![bg](../images/asu.jpeg)
-
-##
-
-![bg](../images/curbs.jpeg)
-
-##
-![bg](../images/friends.jpeg)
-
-##
-![](../images/panel.png)
-
-##
-![bg](../images/sequence2.png)
-
-##
-
-![bg](../images/product.png)
 
 # Hands on Lab
 
@@ -120,4 +76,4 @@ Group Assignment #3
 
 [Instructions](https://github.com/cgiamarino9/25W-UP221/blob/main/Group%20Assignments/GroupAssignment3.md)
 
-Submit your assignment [here](https://github.com/cgiamarino9/24W-UP221/discussions/10)
+Submit your assignment [here](https://github.com/cgiamarino9/25W-UP221/discussions/12)
