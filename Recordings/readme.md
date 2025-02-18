@@ -13,11 +13,9 @@ Recordings will be made available within a day after the class. These recordings
 
 [Week 5 - Open Street Map](https://ucla.zoom.us/rec/share/UEQjacMtB_Lq2oJT8nb_JHFrhNwvE_7NKdaH8OGR06xOyJZSa9pNc-v5Hb5C0Jt9.Q1KS5Mn46WTG-rHu)
 
-[Week 6 - Midterm Presentations](https://ucla.zoom.us/rec/share/oOxJBQxMsRukPtGsNDlpURGwbKZvreaafLKhn6oe4isOsuQ0AOK3teOalbIUywmO.tooucWdq5BTC_tHX)
+[Week 6 - Midterm Presentations](https://ucla.zoom.us/rec/share/LsPAhm0O_-Gam7CocicTohWFZBr8QqKxKZYK9lJS_i1lg45hzZNRtKRCYzgqtxaZ.paMGGQ1CyTT5KUX6)
 
-[Week 7 - Isochrone Maps part 1](https://ucla.zoom.us/rec/share/cYMdrcsPtFtxHksvAPtDYOBFZqYTqk_RJIDd1fua42kAOp5pr4hUt-Jp6hF4TXrB.ZVjb22pJ65Us2IOZ)
-
-[Week 7 - Isochrone Maps part 2](https://ucla.zoom.us/rec/share/DYGAw9tLa-MFnpQINEEPpY7MvHrWDZPLGroAZqvZgKDe7ItAuSrRlYUUglfqBQ_J.W14O6je_pJYeEqEj)
+[Week 7 - Isochrone Maps](https://ucla.zoom.us/rec/share/XUscG0icTsTJL7GGzW1dxPm1NoVGycpUIbC_Y7SQn04wbt9tOVtuNO7SdiI_j0N9.OVR5jU-dDXeSEPXB?startTime=1739833522000)
 
 [Week 8 - Spatial Autocorrelation](https://ucla.zoom.us/rec/share/IZ7slEk479CWBCRbCTGtY_DkqkDgEaBUkDp05C2ewk96XaGTeSYa3MggL6MQUnvs.5mfpRgp93bx2iDCS)
 
