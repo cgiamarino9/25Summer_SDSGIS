@@ -28,7 +28,7 @@ Spatial Autocorrelation
 
 </xl>
 
-[Course Zoom](https://www.google.com/url?q=https://ucla.zoom.us/j/92932552160?pwd%3D1SjIMPWzWJv8mmyb7pbQX1IOickbAp.1&sa=D&source=calendar&ust=1739043238546166&usg=AOvVaw3vUbNDO7WnZWeHgEEOwSov)
+[Course Zoom](https://ucla.zoom.us/j/92932552160?pwd=1SjIMPWzWJv8mmyb7pbQX1IOickbAp.1)
 
 February 24, 2025
 
@@ -43,46 +43,7 @@ First, grab the course material, and "pull" it into your JupyterHub:
 <small>Note that you have to do this at the start of every lecture to get the latest material.
 </small>
 
-##
-<xl>
 
-*Note that this course will be recorded🎥
-
-</xl>
-
-##
-<xl>
-
-[A car is not a home](https://www.nytimes.com/interactive/2024/02/21/opinion/homelessness-crisis-america-stories.html?unlocked_article_code=1.XE0.NdbI.OxRCaxV6K_2j&smid=url-share) 
-
-</xl>
-<br>
-<em>New York Times</em> publication 
-
-##
-![bg](../images/car.png)
-
-##
-![width:900px](../images/car2.png)
-
-##
-![width:900px](../images/chloe.jpg)
-
-##
-![width:900px](../images/cars1_dog.jpg)
-
-##
-<img src="../images/nytimes2.jpg" width="325   "/> <img src="../images/nytimes1.jpg" width="325"/> <img src="../images/nytimes3.jpg" width="325"/> 
-
-##
-<xl>
-
-[Thrasher Magazine recap of Slow Impact 2](https://www.thrashermagazine.com/articles/slow-impact-photo-recap/) 
-
-##
-![bg](../images/thrasher.jpg)
-
-</xl>
 
 
 ## Today's Agenda
@@ -99,13 +60,9 @@ Lab:
 </xl>
 
 
-## Group Assignment
+## Final Group Assignment
 
-<left>
-There are NO deliverables for the groups this week. But PROMISE that you will meet with your partners, and make progress on any of the materials gearing up for the final project. You will be asked to sumbit a draft of your final project materials by Week 10. You may choose to:
-</left>
 
-<small>
 <hr>
 
 - Clean up/update your project proposal
@@ -114,4 +71,5 @@ There are NO deliverables for the groups this week. But PROMISE that you will me
 - Plan for the final project presentation
 - Meet with your instructors to dicuss your project
 - Post on the slack channel!
-- [Extra credit group assignment](https://github.com/cgiamarino9/25W-UP221/blob/main/Group%20Assignments/GroupAssignment4.md). Will count toward missing one missing assignment from quarter.
+- [Final Group Assignment](https://github.com/cgiamarino9/25W-UP221/blob/main/Group%20Assignments/GroupAssignment4.md). Will count toward missing one missing assignment from quarter.
+- Submit group assignment [here](https://github.com/cgiamarino9/25W-UP221/discussions/13)
