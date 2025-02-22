@@ -54,6 +54,8 @@ Submit links to the following items in [this discussion section](https://github.
 
 [Google Sites tutorial](https://support.google.com/sites/answer/6372878?hl=en)
 
+[Creating GitHub Pages website for interactive map HTML](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
+
 **Presentation (due March 17th by 1:59 pm with story map, site, or report)** during finals week, you will have 12 minutes to present your project to the class.
 
 *  Follow the [TED presentation guidelines](https://www.ted.com/participate/organize-a-local-tedx-event/tedx-organizer-guide/speakers-program/prepare-your-speaker/create-prepare-slides)
