@@ -70,7 +70,7 @@ Submit links to the following items in [this discussion section](https://github.
 - [grading criteria](https://github.com/cgiamarino9/25W-UP221?tab=readme-ov-file#grading-criteria)
 
 **Final examples**: 
-* [Example1](https://docs.google.com/presentation/d/1hhmEXRqUheoIrORC4sREa3TFJ6OBkmeR/edit?usp=sharing&ouid=114100702949630940115&rtpof=true&sd=true). 
+* [Example 1](https://docs.google.com/presentation/d/1hhmEXRqUheoIrORC4sREa3TFJ6OBkmeR/edit?usp=sharing&ouid=114100702949630940115&rtpof=true&sd=true). 
 * [Example 2](https://docs.google.com/presentation/d/1Mq0MnkH4wDH6sTjfQcTFAESgKQlO2HZFm3UKi7Q2b6M/edit?usp=sharing). 
 * [Example 3](https://docs.google.com/presentation/d/1_CAiY4MHeYh7dKEos-bIXYskkd7-G9jEti5-aMSK5SI/edit?usp=sharing).
 
