@@ -67,8 +67,9 @@ Submit links to the following items in [this discussion section](https://github.
 
 *  Make sure to clean your notebooks prior to submission. Notebooks that do not have explanatory markdown cells, or notebooks that produce errors will affect your grade.
 
-### Grading
+### Grading and suggested structure
 
+- [Story Map and presentation structure](https://arcg.is/nD5Pf)
 - [grading criteria](https://github.com/cgiamarino9/25W-UP221?tab=readme-ov-file#grading-criteria)
 
 **Final examples**: 
@@ -77,7 +78,7 @@ Submit links to the following items in [this discussion section](https://github.
 * [Example 3](https://docs.google.com/presentation/d/1_CAiY4MHeYh7dKEos-bIXYskkd7-G9jEti5-aMSK5SI/edit?usp=sharing).
 
 **Story Maps**: 
-* [Example of storytelling through maps 'The literay life of Octavia E. Butler'](https://www.latimes.com/projects/la-libraries-octavia-butler-books-life/).
+* [Example of storytelling through maps 'The literary life of Octavia E. Butler'](https://www.latimes.com/projects/la-libraries-octavia-butler-books-life/).
 * [Example Story Map on collisions and transit safety from Nick's team last year](https://arcg.is/141L010). 
 * [Example Story Map on the relationship between redlining and health inequities](https://arcg.is/0Ca0Cm). 
 * [Example Google Site from Chinatown Community for Equitable Development](https://sites.google.com/g.ucla.edu/up221-chinatown?pli=1). 

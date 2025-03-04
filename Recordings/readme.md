@@ -10,7 +10,6 @@ Recordings will be made available within a day after the class. These recordings
 
 [Week 4 - Open Data Exploration](https://ucla.zoom.us/rec/share/SdwuXkO7wd6ySIMFCKm8tzHTPY-uYboJj2b6_vt9ljRJg0U5G0tPf30uH59wNbjL.tbjAtkJPuofEO2V2)
 
-
 [Week 5 - Open Street Map](https://ucla.zoom.us/rec/share/UEQjacMtB_Lq2oJT8nb_JHFrhNwvE_7NKdaH8OGR06xOyJZSa9pNc-v5Hb5C0Jt9.Q1KS5Mn46WTG-rHu)
 
 [Week 6 - Midterm Presentations](https://ucla.zoom.us/rec/share/LsPAhm0O_-Gam7CocicTohWFZBr8QqKxKZYK9lJS_i1lg45hzZNRtKRCYzgqtxaZ.paMGGQ1CyTT5KUX6)
@@ -20,6 +19,8 @@ Recordings will be made available within a day after the class. These recordings
 [Week 8 - Spatial Autocorrelation](https://ucla.zoom.us/rec/share/PYucBzOQyXldRa0vDc7vpeh5_xLnlE76wsZ2k-ybgWz5R2r9jH74Vn-zDuMDM0G4.bCjrq9Fedj84B7Fq)
 
 [Week 9 - Point Patterns](https://ucla.zoom.us/rec/share/0xZ66qgJcBSO0n6ZZEcAJksKocvpiUu9G9ZXJqaHs_8haGIao3mM6o9cBeVs5d2R.1czMJPE2xrPXYGCr)
+
+[Week 9 - Story Map tutorial](https://ucla.zoom.us/rec/share/onvxfmXaEJOqhorj45w4t_xV998RSHlBY_FpMZ546ix8dMcRsvbVKphlO4dVboj9.PU9XdHYNdnNzGqac)
 
 [Week 10 - Thick mapping, Nick + Carl](https://ucla.zoom.us/rec/share/caZMMextrlZoNYPngKPLYAW92exMFGeUf6dUoYYtCHqamu7DSufuMa7lw5awgDKz.kl5Ddr8cNZIJz5TS)
 
