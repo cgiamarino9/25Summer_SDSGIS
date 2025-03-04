@@ -19,7 +19,7 @@ Recordings will be made available within a day after the class. These recordings
 
 [Week 8 - Spatial Autocorrelation](https://ucla.zoom.us/rec/share/PYucBzOQyXldRa0vDc7vpeh5_xLnlE76wsZ2k-ybgWz5R2r9jH74Vn-zDuMDM0G4.bCjrq9Fedj84B7Fq)
 
-[Week 9 - Point Patterns](https://ucla.zoom.us/rec/share/daZnpsqHRFZuO8SACYy6r9vaon6wLHBYwwpdjJlYoGQsRYSH7dBPJkaL7W9aapqx.oB00rUdUcBm8cDk5)
+[Week 9 - Point Patterns](https://ucla.zoom.us/rec/share/0xZ66qgJcBSO0n6ZZEcAJksKocvpiUu9G9ZXJqaHs_8haGIao3mM6o9cBeVs5d2R.1czMJPE2xrPXYGCr)
 
 [Week 10 - Thick mapping, Nick + Carl](https://ucla.zoom.us/rec/share/caZMMextrlZoNYPngKPLYAW92exMFGeUf6dUoYYtCHqamu7DSufuMa7lw5awgDKz.kl5Ddr8cNZIJz5TS)
 
