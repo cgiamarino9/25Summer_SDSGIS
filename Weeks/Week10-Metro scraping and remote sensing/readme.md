@@ -54,7 +54,7 @@ First, grab the course material, and "pull" it into your JupyterHub:
 
 ## Today's lab is:
 
-FINAL PROJECT WORKSHOP!
+Index creation + FINAL PROJECT WORKSHOP!
 </xl>
 
 ## Final project presentations

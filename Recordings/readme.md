@@ -22,7 +22,7 @@ Recordings will be made available within a day after the class. These recordings
 
 [Week 9 - Story Map tutorial](https://ucla.zoom.us/rec/share/onvxfmXaEJOqhorj45w4t_xV998RSHlBY_FpMZ546ix8dMcRsvbVKphlO4dVboj9.PU9XdHYNdnNzGqac)
 
-[Week 10 - Thick mapping, Nick + Carl](https://ucla.zoom.us/rec/share/caZMMextrlZoNYPngKPLYAW92exMFGeUf6dUoYYtCHqamu7DSufuMa7lw5awgDKz.kl5Ddr8cNZIJz5TS)
+[Index and workshop](https://ucla.zoom.us/rec/share/caZMMextrlZoNYPngKPLYAW92exMFGeUf6dUoYYtCHqamu7DSufuMa7lw5awgDKz.kl5Ddr8cNZIJz5TS)
 
 [Final presentations part 1](https://ucla.zoom.us/rec/share/XKU1VTWBDzygInNd9pWy7ypTxIBYyzb31ng0lsoPaBg3xGsVcJclkPJxKgvcgfhA.7YzAiyPap2ahsz67?startTime=1710806779000) 
 
