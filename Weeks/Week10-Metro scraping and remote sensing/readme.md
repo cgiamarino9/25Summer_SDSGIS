@@ -20,7 +20,7 @@ section {font-size:2em;font-weight:300;}
 left {text-align:left;}
 </style>
 
-## Week 10: March 11, 2024
+## Week 10: March 10, 2025
 
 
 <xl>
@@ -29,7 +29,7 @@ Final Workshop
 
 </xl>
 
-[Course Zoom](https://www.google.com/url?q=https://ucla.zoom.us/j/92932552160?pwd%3D1SjIMPWzWJv8mmyb7pbQX1IOickbAp.1&sa=D&source=calendar&ust=1739043238546166&usg=AOvVaw3vUbNDO7WnZWeHgEEOwSov)
+[Course Zoom](https://ucla.zoom.us/j/92932552160?pwd=1SjIMPWzWJv8mmyb7pbQX1IOickbAp.1)
 
 
 
@@ -39,7 +39,7 @@ Final Workshop
 <xl>
 Course evaluation (take 5-10 minutes during class time)
 </xl>
-<br> * Friendly reminder (for the 3rd or 4th time) </br>
+<br> * Friendly reminder  </br>
 
 ## Let's pull (optional if you'd like to look at Metro API and Remote Sensing imagery)
 
@@ -55,15 +55,16 @@ First, grab the course material, and "pull" it into your JupyterHub:
 ## Today's lab is:
 
 FINAL PROJECT WORKSHOP!
+</xl>
 
 ## Final project presentations
 
-<xl>
-March 17th, Monday 2pm - 5 pm
+
+ March 17th, Monday 2pm - 5 pm
 
 </xl>
 
 <br>
 
-- [Submission guidelines](https://github.com/cgiamarino9/24W-UP221/tree/main/Midterm%20and%20Finals#final-project-30-of-your-final-grade)
-- [Submit final materials here](https://github.com/cgiamarino9/24W-UP221/discussions/12)
+- [Submission guidelines](https://github.com/cgiamarino9/25W-UP221/tree/main/Midterm%20and%20Finals#final-project-30-of-your-final-grade)
+- [Submit final materials here](https://github.com/cgiamarino9/25W-UP221/discussions/14)
