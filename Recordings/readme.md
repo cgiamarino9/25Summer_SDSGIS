@@ -20,7 +20,7 @@ Recordings will be made available within a day after the class. These recordings
 
 [Week 9 - Point Patterns](https://ucla.zoom.us/rec/share/0xZ66qgJcBSO0n6ZZEcAJksKocvpiUu9G9ZXJqaHs_8haGIao3mM6o9cBeVs5d2R.1czMJPE2xrPXYGCr)
 
-[Week 9 - Story Map tutorial](https://ucla.zoom.us/rec/share/onvxfmXaEJOqhorj45w4t_xV998RSHlBY_FpMZ546ix8dMcRsvbVKphlO4dVboj9.PU9XdHYNdnNzGqac)
+[Week 9 - Story Map tutorial](https://ucla.zoom.us/rec/share/6n8pAMqpCw0_b_ZrIFBapksbvJVGFbna0NSzFngpHNW7_4AJqf9ezeLIWU-4hECl.UAfi2dClEHR1EeB_?startTime=1741107820000)
 
 [Index and workshop](https://ucla.zoom.us/rec/share/caZMMextrlZoNYPngKPLYAW92exMFGeUf6dUoYYtCHqamu7DSufuMa7lw5awgDKz.kl5Ddr8cNZIJz5TS)
 
