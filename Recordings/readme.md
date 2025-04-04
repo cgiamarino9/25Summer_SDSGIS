@@ -24,7 +24,5 @@ Recordings will be made available within a day after the class. These recordings
 
 [Index and workshop](https://ucla.zoom.us/rec/share/RGwqY5g9XIKw1fEQWlQTQW0eGaYYexvGhKUZzjuM6pwp4XsHaEq5zSr5XUaRGpU.zypLnRJknMLoY5Gc)
 
-[Final presentations part 1](https://ucla.zoom.us/rec/share/XKU1VTWBDzygInNd9pWy7ypTxIBYyzb31ng0lsoPaBg3xGsVcJclkPJxKgvcgfhA.7YzAiyPap2ahsz67?startTime=1710806779000) 
-
-[Final presentations part 2](https://ucla.zoom.us/rec/share/XKU1VTWBDzygInNd9pWy7ypTxIBYyzb31ng0lsoPaBg3xGsVcJclkPJxKgvcgfhA.7YzAiyPap2ahsz67?startTime=1710816947000)
+[Final presentations](https://ucla.zoom.us/rec/share/XKU1VTWBDzygInNd9pWy7ypTxIBYyzb31ng0lsoPaBg3xGsVcJclkPJxKgvcgfhA.7YzAiyPap2ahsz67?startTime=1710806779000) 
 
