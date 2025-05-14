@@ -53,6 +53,8 @@ For intermediate users, clone your course GitHub HTTPS Repository link and use t
 
 9. If prompted, add your GitHub `username` (not your email) and your `personal access token`. 
 
+<kbd><img src="images/pushSuccess.png"></kbd>
+
 ## Method 3: Use the command line
 
 For advanced users, the following steps outlines the commands you need to go through in order to update your repo.
