@@ -4,7 +4,7 @@ At the start of every week, I will ask you to reset your class git repo. What I 
 
 To reset the repo, do the following:
 
-1. log into the class Jupyter Hub
+1. Open up `jupyter lab` in the Anaconda Terminal
 1. go to New, Terminal
 1. Navigate to the directory that has the class repo
 1. In the command prompt, type the following commands
