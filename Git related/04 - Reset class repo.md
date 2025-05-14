@@ -13,4 +13,6 @@ To reset the repo, do the following:
 git reset --hard
 git pull
 ```
+<kbd><img src="images/gitRepo.png"></kbd>
+<kbd><img src="images/gitRepo1.png"></kbd>
 
