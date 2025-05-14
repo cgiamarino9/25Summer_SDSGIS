@@ -32,7 +32,7 @@ For intermediate users, clone your course GitHub HTTPS Repository link and use t
 
 <kbd><img src="images/gitNote.png"></kbd>
 
-1. Switch between [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) and Code to format your notebooks appropriately. 
+3. Switch between [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) and Code to format your notebooks appropriately. 
 
 1. Finalize your python notebook. Save your work. Make sure all code cells run successfully. 
 
@@ -42,16 +42,16 @@ For intermediate users, clone your course GitHub HTTPS Repository link and use t
 
 <kbd><img src="images/gitTrack.png"></kbd>
 
-1. Add a Summary message and click Commit to commit your changes.
+7. Add a Summary message and click Commit to commit your changes.
 
 <kbd><img src="images/gitCommit.png"></kbd>
 
-1. Push to your remote GitHub repo. 
+8. Push to your remote GitHub repo. 
 
 
 <kbd><img src="images/gitPush.png"></kbd>
 
-1. If prompted, add your GitHub `username` (not your email) and your `personal access token`. 
+9. If prompted, add your GitHub `username` (not your email) and your `personal access token`. 
 
 ## Method 3: Use the command line
 
